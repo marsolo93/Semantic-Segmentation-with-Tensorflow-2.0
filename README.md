@@ -4,7 +4,7 @@
 Pixel-wise semantic segmentation on the Cityscapes dataset using blockwise different feature extractors and detectors. 
 For the selection of feature extractors and detectors the provided code supports MobileNetV2, ResNet50 and ResNet18 as well as SwiftNet, DeeplabV3 and UNet, respectively.
 
-## Visual Results - SwiftNet in Action in different scenes
+## Visual Results - SwiftNet in action in different scenes
 
 https://user-images.githubusercontent.com/48687645/117666138-d9651c80-b1a3-11eb-888f-e3249f6d30dd.mp4
 
